@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  text-align: center;
+  margin: 50px auto 0;
+  border: 3px dashed #f00;
+  padding: 25px;
+  width: 400px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0 0 10px;
+}
+
+p {
+  margin: 0;
+  padding: 0 10%;
+}
