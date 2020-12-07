@@ -12,7 +12,9 @@ section {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-
+section {
+  color: aquamarine;
+}
 h1 {
   margin: 0 0 10px;
 }
